@@ -5,11 +5,11 @@ bash_completion_module for ipset
 
 This is a simple bash completion module for ipset.
 
-It covers all the basic usecases and common functionality.
+It covers all the basic use cases and common functionality.
 
 
 #TESTING:
-You can easily test it using the command:
+You can easily test it by downloading ipset.sh and using the command:
 
 source ipset.sh 
 
