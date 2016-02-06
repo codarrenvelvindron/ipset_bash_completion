@@ -1,6 +1,6 @@
 # ipset_bash_completion
 
-DESCRIPTION
+#DESCRIPTION
 bash_completion_module for ipset
 
 This is a simple bash completion module for ipset.
@@ -8,7 +8,7 @@ This is a simple bash completion module for ipset.
 It covers all the basic usecases and common functionality.
 
 
-TESTING:
+#TESTING:
 You can easily test it using the command:
 
 source ipset.sh 
@@ -18,7 +18,7 @@ ipset[space][tab]
 ipset[space][dash][tab]
 
 
-ALTERNATIVES:
+#ALTERNATIVES:
 In case you are looking for a programmable ipset bash completion module,
 you should check out Allkind's version.
 
